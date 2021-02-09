@@ -10,7 +10,7 @@ class Feliux:
         self.interests = ['Physics', 'Maths', 'Data Science', 'Big Data', 'Finances', 'Cybersecurity']
         self.tools = {
             'programming': {
-                'Python': ['Numpy'. 'Pandas', 'Scipy', 'Scikit-Learn', 'Pytorch', 'Matplotlib', 'Seaborn', 'Sympy', 'Quiskit', 'Pyspark', 'Pycharm', 'Jupyter', 'SQLAlchemy'],
+                'Python': ['Numpy'. 'Pandas', 'Scipy', 'Scikit-Learn', 'Pytorch', 'Matplotlib', 'Seaborn', 'Sympy', 'Quiskit', 'Pyspark', 'Pycharm', 'Jupyter', 'SQLAlchemy', 'Streamlit', 'Flask'],
                 'R': ['Rattle', 'Ggplot', 'Shiny', 'Plotly', 'Knitr', 'Rstudio'],
                 'Others': ['Julia', 'Bash']            
             },
@@ -23,7 +23,7 @@ class Feliux:
             'devops': {
                 'containers': ['Docker', 'Compose', 'Swarm'],
                 'managers': ['Ansible'],
-                'CI/CD': ['Jenkins', 'Gitlab CI'],
+                'CI/CD': ['Jenkins', 'Airflow', 'Gitlab CI'],
                 'monitoring': ['Zabbix', 'Nagios', 'Metricbeat'],
                 'visualizing': ['Kibana', 'Grafana', 'Redash', 'Tableau', 'Superset']
             },
@@ -39,13 +39,13 @@ if __name__ == '__main__':
     me = Feliux()
     
 ```
-
+<!--
 #### Some stats about me (Public Only)
-
 <p align="center" >
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=feliux&show_icons=true"  > </p>
-
-#### Get in touch
+   <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=feliux&show_icons=true" >
+</p>
+ypyp
+-->
 
 <p align="center"><br/>
    <a href="https://www.linkedin.com/in/felagonell/">
