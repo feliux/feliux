@@ -21,14 +21,14 @@ class Feliux:
                 'NoSQL': ['Elastic', 'MongoDB', 'InfluxDB']
             },
             'devops': {
-                'containers': ['Docker', 'Compose', 'Swarm'],
+                'containers': ['Docker', 'Compose', 'Swarm', `Kubernetes`],
                 'managers': ['Ansible'],
-                'CI/CD': ['Jenkins', 'Airflow', 'Gitlab CI'],
-                'monitoring': ['Zabbix', 'Nagios', 'Metricbeat'],
+                'CI/CD': ['Jenkins', 'Airflow', 'Gitlab CI', 'ArgoCD'],
+                'monitoring': ['Zabbix', 'Nagios', 'Metricbeat', 'Prometheus'],
                 'visualizing': ['Kibana', 'Grafana', 'Redash', 'Tableau', 'Superset']
             },
-            'security': ['Qradar', 'Resilient', 'SEC', 'Networking', 'Scripting', 'SonarQube'],
-            'misc': ['GNU/Linux', 'GIT', 'GitHub', 'GitLab', 'Jira', 'Kanban', 'LaTex']
+            'security': ['Qradar', 'Resilient', 'SEC', 'Networking', 'Scripting', 'SonarQube', 'Nessus'],
+            'misc': ['GNU/Linux', 'Git', 'GitHub', 'GitLab', 'Jira', 'Confluence', 'Kanban', 'Nexus', 'LaTex']
         }
 
     def __str__(self):
