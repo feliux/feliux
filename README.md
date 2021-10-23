@@ -23,7 +23,7 @@ class Feliux:
                 'monitoring': ['Zabbix', 'Nagios', 'Metricbeat', 'Prometheus'],
                 'visualizing': ['Kibana', 'Grafana', 'Redash', 'Tableau', 'Superset']
             },
-            'cloud': ['AWS', 'GCP', 'Azure']
+            'cloud': ['AWS', 'GCP', 'Azure'],
             'security': ['Qradar', 'Resilient', 'SEC', 'Networking', 'Scripting', 'SonarQube', 'Nessus'],
             'science': ['Matlab', 'Octave', 'Maple', 'Maxima', 'Mathematica', 'Cadabra'],
             'misc': ['GNU/Linux', 'Git', 'GitHub', 'GitLab', 'Nexus', 'Jira', 'Confluence', 'Scrum', 'Kanban', 'LaTex']
