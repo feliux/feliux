@@ -9,12 +9,7 @@ class Feliux:
         self.web = 'https://www.linkedin.com/in/felagonell/'
         self.interests = ['Physics', 'Maths', 'Data Science', 'Big Data', 'Finances', 'Cybersecurity']
         self.tools = {
-            'programming': {
-                'Python': ['Numpy'. 'Pandas', 'Scipy', 'Scikit-Learn', 'Pytorch', 'Matplotlib', 'Seaborn', 'Sympy', 'Quiskit', 'Pyspark', 'Pycharm', 'Jupyter', 'SQLAlchemy', 'Streamlit', 'Flask'],
-                'R': ['Rattle', 'Ggplot', 'Shiny', 'Plotly', 'Knitr', 'Rstudio'],
-                'Others': ['Julia', 'Bash']            
-            },
-            'science': ['Matlab', 'Octave', 'Maple', 'Maxima', 'Mathematica', 'Cadabra'],
+            'programming': ['Python', 'R', 'Julia', 'Bash'],
             'bigdata': ['Cloudera', 'Hortonworks', 'Spark', 'Splunk'],
             'database': {
                 'SQL': ['PostgreSQL', 'MySQL', 'MariaDB', 'SQL Server'],
@@ -22,13 +17,16 @@ class Feliux:
             },
             'devops': {
                 'containers': ['Docker', 'Compose', 'Swarm', `Kubernetes`],
+                'infrastructure': ['Terraform', 'Vagrant']
                 'managers': ['Ansible'],
                 'CI/CD': ['Jenkins', 'Airflow', 'Gitlab CI', 'ArgoCD'],
                 'monitoring': ['Zabbix', 'Nagios', 'Metricbeat', 'Prometheus'],
                 'visualizing': ['Kibana', 'Grafana', 'Redash', 'Tableau', 'Superset']
             },
+            'cloud': ['AWS', 'GCP', 'Azure']
             'security': ['Qradar', 'Resilient', 'SEC', 'Networking', 'Scripting', 'SonarQube', 'Nessus'],
-            'misc': ['GNU/Linux', 'Git', 'GitHub', 'GitLab', 'Jira', 'Confluence', 'Kanban', 'Nexus', 'LaTex']
+            'science': ['Matlab', 'Octave', 'Maple', 'Maxima', 'Mathematica', 'Cadabra'],
+            'misc': ['GNU/Linux', 'Git', 'GitHub', 'GitLab', 'Nexus', 'Jira', 'Confluence', 'Scrum', 'Kanban', 'LaTex']
         }
 
     def __str__(self):
