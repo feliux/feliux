@@ -17,7 +17,7 @@ class Feliux:
             },
             'devops': {
                 'containers': ['Docker', 'Compose', 'Swarm', `Kubernetes`],
-                'infrastructure': ['Terraform', 'Vagrant']
+                'infrastructure': ['Terraform', 'Vagrant'],
                 'managers': ['Ansible'],
                 'CI/CD': ['Jenkins', 'Airflow', 'Gitlab CI', 'ArgoCD'],
                 'monitoring': ['Zabbix', 'Nagios', 'Metricbeat', 'Prometheus'],
