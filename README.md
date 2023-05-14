@@ -1,3 +1,4 @@
+<!--
 ### Hi I'm Félix 👋
 
 ```python
@@ -37,14 +38,14 @@ if __name__ == '__main__':
     me = Feliux()
     
 ```
-<!--
+
+
 #### Some stats about me (Public Only)
 <p align="center" >
    <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=feliux&show_icons=true" >
 </p>
 ypyp
 -->
-
 <p align="center"><br/>
    <a href="https://www.linkedin.com/in/felagonell/">
     <img src="https://img.shields.io/badge/linkedin-felagonell-blue">
