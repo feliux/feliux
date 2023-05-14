@@ -36,16 +36,31 @@ class Feliux:
 
 if __name__ == '__main__':
     me = Feliux()
-    
+
 ```
-
-
-#### Some stats about me (Public Only)
-<p align="center" >
-   <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=feliux&show_icons=true" >
-</p>
-ypyp
 -->
+
+<b> </b>
+<b>*GitHub Stats*:</b> 
+<b> </b> 
+<!--
+https://github.com/anuraghazra/github-readme-stats
+-->
+<p align="center">
+    <table>
+        <tr>
+            <td>
+                <a href="https://github.com/feliux">
+                    <img align="center" fetchpriority="high" src="https://github-readme-stats.vercel.app/api?username=feliux&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true" alt="Félix's Github Stats" height="180rem" />
+                </a>
+            </td>
+            <td> 
+                <a href="https://github.com/feliux"><img align="center" fetchpriority="high" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliux&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=10&size_weight=0.4&count_weight=1&hide=html,javascript,css,jupyter%20notebook,matlab,r" height="180rem"/></a>
+            </td>
+        </tr>
+    </table>
+</p>
+
 <p align="center"><br/>
    <a href="https://www.linkedin.com/in/felagonell/">
     <img src="https://img.shields.io/badge/linkedin-felagonell-blue">
